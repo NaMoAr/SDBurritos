@@ -1,6 +1,6 @@
-package edu.miracosta.cs112.mpaulding.view;
+package edu.miracosta.cs112.narani.view;
 
-import edu.miracosta.cs112.mpaulding.controller.Controller;
+import edu.miracosta.cs112.narani.controller.Controller;
 import javafx.application.Application;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;

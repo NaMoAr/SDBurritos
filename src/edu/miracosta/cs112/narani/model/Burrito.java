@@ -1,4 +1,4 @@
-package edu.miracosta.cs112.mpaulding.model;
+package edu.miracosta.cs112.narani.model;
 
 import java.io.Serializable;
 import java.text.NumberFormat;

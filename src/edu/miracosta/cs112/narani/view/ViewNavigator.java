@@ -1,4 +1,4 @@
-package edu.miracosta.cs112.mpaulding.view;
+package edu.miracosta.cs112.narani.view;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;

@@ -1,7 +1,7 @@
-package edu.miracosta.cs112.mpaulding.controller;
+package edu.miracosta.cs112.narani.controller;
 
-import edu.miracosta.cs112.mpaulding.model.Model;
-import edu.miracosta.cs112.mpaulding.model.Burrito;
+import edu.miracosta.cs112.narani.model.Model;
+import edu.miracosta.cs112.narani.model.Burrito;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 

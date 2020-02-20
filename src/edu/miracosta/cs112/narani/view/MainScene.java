@@ -1,7 +1,7 @@
-package edu.miracosta.cs112.mpaulding.view;
+package edu.miracosta.cs112.narani.view;
 
-import edu.miracosta.cs112.mpaulding.controller.Controller;
-import edu.miracosta.cs112.mpaulding.model.Burrito;
+import edu.miracosta.cs112.narani.controller.Controller;
+import edu.miracosta.cs112.narani.model.Burrito;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.ObservableList;
